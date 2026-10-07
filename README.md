@@ -164,4 +164,3 @@ python lock_baseline.py
    LSTM R²≈0.789 / MAE≈1.69 (locked baseline).
 2. Multi-horizon forecasting (3h/6h/24h ahead).
 3. ERA5/IMD cross-validation of Open-Meteo data.
-4. Jupyter notebooks + final report + PPT.
