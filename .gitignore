@@ -18,6 +18,12 @@ coverage/
 *.tmp
 *.bak
 
+# Local research pipeline and generated reports
+/*.py
+reports/
+src/
+visualizations/
+
 # Raw, archived, and generated datasets
 data/raw/
 data/final/
