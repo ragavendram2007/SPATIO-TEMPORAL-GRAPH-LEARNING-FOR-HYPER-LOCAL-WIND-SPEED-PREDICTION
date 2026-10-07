@@ -21,7 +21,7 @@ coverage/
 # Local research pipeline and generated reports
 /*.py
 reports/
-src/
+/src/
 visualizations/
 
 # Raw, archived, and generated datasets
