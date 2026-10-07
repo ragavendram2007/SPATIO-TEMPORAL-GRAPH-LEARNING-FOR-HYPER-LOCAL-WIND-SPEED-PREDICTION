@@ -1,0 +1,4 @@
+graph,nodes,undirected_edges,density,max_weight,mean_weight,min_degree,max_degree,mean_degree
+Geographic,12,32,0.485,0.9846,0.8037,4,9,5.33
+Correlation,12,45,0.682,0.8148,0.4497,2,10,7.5
+Hybrid,12,24,0.364,0.9958,0.4733,2,7,4.0

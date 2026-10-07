@@ -1,0 +1,69 @@
+# Python and local environments
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+.env
+.vscode/
+
+# Frontend dependencies and build output
+node_modules/
+dist/
+coverage/
+*.log
+
+# Notebooks and temporary files
+.ipynb_checkpoints/
+*.tmp
+*.bak
+
+# Raw, archived, and generated datasets
+data/raw/
+data/final/
+data/processed.zip
+data/processed/*
+!data/processed/features_leakfree.csv
+!data/processed/graph/
+data/processed/graph/*
+!data/processed/graph/*.csv
+!data/processed/spatial/
+data/processed/spatial/*
+!data/processed/spatial/*.csv
+
+# Training outputs and private/heavy artifacts
+graph_transformer/
+graph_transformer.zip
+models/*
+!models/graph_transformer/
+models/graph_transformer/*
+!models/graph_transformer/graph_transformer.pt
+!models/scaler_chennai.joblib
+!models/scaler_coimbatore.joblib
+!models/scaler_dindigul.joblib
+!models/scaler_erode.joblib
+!models/scaler_madurai.joblib
+!models/scaler_nagercoil.joblib
+!models/scaler_salem.joblib
+!models/scaler_thanjavur.joblib
+!models/scaler_thoothukkudi.joblib
+!models/scaler_tiruchirappalli.joblib
+!models/scaler_tirunelveli.joblib
+!models/scaler_vellore.joblib
+*.joblib
+*.pt
+
+# Keep the inference model and runtime scalers allowlisted above.
+!models/graph_transformer/graph_transformer.pt
+!models/scaler_chennai.joblib
+!models/scaler_coimbatore.joblib
+!models/scaler_dindigul.joblib
+!models/scaler_erode.joblib
+!models/scaler_madurai.joblib
+!models/scaler_nagercoil.joblib
+!models/scaler_salem.joblib
+!models/scaler_thanjavur.joblib
+!models/scaler_thoothukkudi.joblib
+!models/scaler_tiruchirappalli.joblib
+!models/scaler_tirunelveli.joblib
+!models/scaler_vellore.joblib

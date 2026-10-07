@@ -1,0 +1,13 @@
+target,source,lag_h,r
+Thanjavur,Tiruchirappalli,1,0.797
+Tiruchirappalli,Thanjavur,1,0.7912
+Coimbatore,Nagercoil,1,0.6348
+Vellore,Tiruchirappalli,1,0.6317
+Thoothukkudi,Tirunelveli,1,0.6303
+Tirunelveli,Thoothukkudi,1,0.6064
+Nagercoil,Coimbatore,1,0.6021
+Erode,Coimbatore,3,0.5661
+Madurai,Tiruchirappalli,1,0.4635
+Dindigul,Tirunelveli,1,0.4558
+Salem,Dindigul,1,0.4403
+Chennai,Vellore,1,0.4327

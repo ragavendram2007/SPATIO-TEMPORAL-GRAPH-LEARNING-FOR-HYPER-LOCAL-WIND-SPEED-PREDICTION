@@ -1,0 +1,13 @@
+station,baseline_val_rmse,best_neighbour,with_neighbour_val_rmse,improvement_kmh
+Chennai,1.677,Vellore,1.605,0.071
+Coimbatore,2.125,Dindigul,2.06,0.065
+Dindigul,2.359,Madurai,2.294,0.065
+Erode,2.679,Vellore,2.622,0.057
+Madurai,2.439,Tirunelveli,2.357,0.082
+Nagercoil,2.961,Thoothukkudi,2.935,0.027
+Salem,2.816,Vellore,2.728,0.088
+Thanjavur,2.043,Tiruchirappalli,1.959,0.084
+Thoothukkudi,2.303,Tirunelveli,2.266,0.037
+Tiruchirappalli,2.165,Thanjavur,2.004,0.161
+Tirunelveli,2.731,Thoothukkudi,2.616,0.115
+Vellore,2.134,Chennai,2.077,0.056
